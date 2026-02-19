@@ -11,4 +11,8 @@ Access the live version of this repo at
 - [GitHub Pages](https://repo2wasm.github.io/template-r)
 - [mybinder.org](http://mybinder.org/v2/gh/repo2wasm/template-r/main?filepath=index.ipynb)
 
-The [example notebook](index.ipynb) is taken from the [notebook-link-example-sqlite](https://github.com/QuantStack/notebook-link-example-sqlite) repository.
+The [example notebook](index.ipynb) includes sections from
+
+- the [xeus-r](https://github.com/jupyter-xeus/xeus-r) repository by [jupyter-xeus](https://github.com/jupyter-xeus)
+- the [r](https://github.com/binder-examples/r) repository by [binder-examples](https://github.com/binder-examples)
+- the [pydata2025-r](https://github.com/IsabelParedes/pydata2025-r/) repository by [IsabelParedes](https://github.com/IsabelParedes)
